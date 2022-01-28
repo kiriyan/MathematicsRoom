@@ -1,6 +1,8 @@
 # MathematicsRoom
 some mathematic problem using computer to help
 # One equation
+这里提供的Readfile.txt 中的数据是视频BV1z44y1s7fT中的部分绘图数据（另一部分已经被处理过了所以搬不过来了
+
  include "wxPython", "opencv2", "sympy" 
  
  可以用中文吗（行那还是用中文写吧 
