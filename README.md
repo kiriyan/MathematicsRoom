@@ -1,6 +1,6 @@
 # MathematicsRoom
 some mathematic problem using computer to help
-# One equation
+# One equation (equation drawer)
 这里提供的Readfile.txt 中的数据是视频BV1z44y1s7fT中的部分绘图数据（另一部分已经被处理过了所以搬不过来了
 
  include "wxPython", "opencv2", "sympy" 
