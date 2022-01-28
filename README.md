@@ -1,8 +1,8 @@
 # MathematicsRoom
 some mathematic problem using computer to help
 # One equation
-include "wxPython", "opencv2", "sympy" \n
-可以用中文吗（行那还是用中文写吧 \n
+ include "wxPython", "opencv2", "sympy" 
+ 可以用中文吗（行那还是用中文写吧 
 首先
 以上的包需要自行安装(line 4)
 然后是使用部分
