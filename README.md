@@ -7,3 +7,6 @@ Branches:
 1、One-equation.
 2、Chasing-Problems.
 3、Probability-calculation-problems.
+
+# Chasing-Problems (video generator and problem model)
+This is a project which to generator the problem video and the Chasing-problem math model.
